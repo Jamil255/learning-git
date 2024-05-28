@@ -1,1 +1,6 @@
-console.log("hello world")
+console.log('hello world')
+console.log('git clone')
+console.log('git checkout')
+console.log('git branch')
+console.log('git init ')
+console.log('git add .')
